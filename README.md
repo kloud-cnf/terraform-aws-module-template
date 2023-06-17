@@ -1,5 +1,7 @@
 # terraform-aws-module-template
 
+![](https://img.shields.io/badge/Terraform-1.5x-623CE4?logo=terraform)
+
 > an opinionated, template repo used to create new terraform modules
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
